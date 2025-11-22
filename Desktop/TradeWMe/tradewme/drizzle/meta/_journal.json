@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1763679015861,
+      "tag": "0000_glorious_young_avengers",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1763682188168,
+      "tag": "0001_furry_warbound",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1763764235118,
+      "tag": "0002_curly_dexter_bennett",
+      "breakpoints": true
+    }
+  ]
+}
